@@ -2,6 +2,17 @@
 {
   "name": "Octoblu Community Connectors",
   "documentation": "https://meshblu-connectors.readme.io",
-  "version": "1.0.0",
-  "items": []
+  "version": "5.0.0",
+  "items": [
+    {
+      "_id": "virgilvox-meshblu-connector-serial",
+      "name": "Serial",
+      "description": "Generic plugin to read and write to a serial port!",
+      "type": "device:serial",
+      "tags": ["Maker"],
+      "githubSlug": "virgilvox/meshblu-connector-serial",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-serial",
+      "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
+    }
+  ]
 }
