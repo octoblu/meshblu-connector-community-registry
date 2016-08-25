@@ -11,7 +11,7 @@
       "type": "device:serial",
       "tags": ["Maker"],
       "githubSlug": "virgilvox/meshblu-connector-serial",
-      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-serial",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/virgilvox/meshblu-connector-serial",
       "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
     },
     {
@@ -21,7 +21,7 @@
       "type": "device:johnnyfive",
       "tags": ["Maker"],
       "githubSlug": "sqrtofsaturn/meshblu-connector-arduino",
-      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-arduino",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/sqrtofsaturn/meshblu-connector-arduino",
       "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
     },
     {
@@ -31,7 +31,7 @@
       "type": "device:rolling-spider",
       "tags": ["Maker"],
       "githubSlug": "virgilvox/meshblu-connector-rolling-spider",
-      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-rolling-spider",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/virgilvox/meshblu-connector-rolling-spider",
       "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
     },
     {
@@ -41,7 +41,7 @@
       "type": "device:osc",
       "tags": ["Maker"],
       "githubSlug": "sqrtofsaturn/meshblu-connector-osc",
-      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-osc",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/sqrtofsaturn/meshblu-connector-osc",
       "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
     }
   ]
