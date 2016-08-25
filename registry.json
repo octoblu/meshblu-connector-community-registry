@@ -13,6 +13,36 @@
       "githubSlug": "virgilvox/meshblu-connector-serial",
       "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-serial",
       "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
+    },
+    {
+      "_id": "sqrtofsaturn-meshblu-connector-arduino",
+      "name": "Johnny-Five",
+      "description": "Control any microcontroller with Johnny-Five over serial!",
+      "type": "device:johnnyfive",
+      "tags": ["Maker"],
+      "githubSlug": "sqrtofsaturn/meshblu-connector-arduino",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-arduino",
+      "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
+    },
+    {
+      "_id": "virgilvox-meshblu-connector-rolling-spider",
+      "name": "Parrot Minidrone",
+      "description": "Control any Parrot Blutooth Minidrone!",
+      "type": "device:rolling-spider",
+      "tags": ["Maker"],
+      "githubSlug": "virgilvox/meshblu-connector-rolling-spider",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-rolling-spider",
+      "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
+    },
+    {
+      "_id": "sqrtofsaturn-meshblu-connector-osc",
+      "name": "OSC",
+      "description": "Open Sounce Control plugin.",
+      "type": "device:osc",
+      "tags": ["Maker"],
+      "githubSlug": "sqrtofsaturn/meshblu-connector-osc",
+      "createUri": "https://connector-factory.octoblu.com/connectors/create/octoblu/meshblu-connector-osc",
+      "configureUri": "https://connector-factory.octoblu.com/connectors/configure/:uuid"
     }
   ]
 }
